@@ -62,3 +62,5 @@ doc/install.lock
 .idea
 /composer.json
 /composer.lock
+
+/vendor/
